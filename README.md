@@ -1,2 +1,2 @@
 # Python-Smart-App-coursework
-A simple smart app in python.
+A simple smart app designed in python.
